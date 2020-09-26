@@ -71,4 +71,5 @@ Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayo
 ## 3. Ideación
 
 ![Design-Thinking]()
+![PROTOTIPO](https://user-images.githubusercontent.com/68177371/94325049-31774780-ff62-11ea-8a95-2543dcf85496.png)
 
