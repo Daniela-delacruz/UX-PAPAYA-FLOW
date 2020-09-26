@@ -73,7 +73,8 @@ Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayo
 Nuestro plan de acción subyace de los Breaks Points que se encontraron en las entrevistas con 5 usuarios y luego en la síntesis-Definición (Herramienta: User Affinity Map).
 El Plan de acción inicial, consta de 3 Etapas descritas a continuación:
 
-![PROTOTIPO](https://user-images.githubusercontent.com/68177371/94325049-31774780-ff62-11ea-8a95-2543dcf85496.png)
+![PROTOTIPO](https://user-images.githubusercontent.com/68177371/94350762-25998d00-0017-11eb-976a-7b44f43ee28d.png)
+
 
 Como primer entregable y después de feedback recibido en el testeo, el enfoque se realizará en la Primera Etapa: INTEGRACIÓN
 
