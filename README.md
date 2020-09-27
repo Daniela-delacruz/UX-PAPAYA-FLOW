@@ -32,7 +32,6 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 
 ---
  
-## Exploration Before Explanation
 
 ## Proceso de Diseño
 
