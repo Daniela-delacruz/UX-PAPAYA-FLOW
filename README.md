@@ -41,7 +41,7 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 
 ## 1. Empatizar: Descubrimiento e Investigación
 
-[Design Thinking](https://www.maunamedia.com/wp-content/uploads/2018/06/Design-Thinking-Process-01-1024x582.png)
+![Design Thinking](https://www.maunamedia.com/wp-content/uploads/2018/06/Design-Thinking-Process-01-1024x582.png)
  
 [Guía de entrevista](https://docs.google.com/document/d/1wyROToRhdYV1nKTHxO0tiCM564xV_XQ7/edit#)
 
