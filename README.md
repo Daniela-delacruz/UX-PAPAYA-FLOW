@@ -2,6 +2,8 @@
 
 ## Exploration Before Explanation
 
+![Brainstorming](https://miro.medium.com/max/640/0*Uk_sezp7WvIGp9GH.jpg)
+
 ## Introducción
 
 * [1. Introducción](#1-Introducción)
@@ -37,8 +39,6 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 
 ## 1. Empatizar: Descubrimiento e Investigación
 
-
-![Brainstorming](https://miro.medium.com/max/640/0*Uk_sezp7WvIGp9GH.jpg)
  
 [Guía de entrevista](https://docs.google.com/document/d/1wyROToRhdYV1nKTHxO0tiCM564xV_XQ7/edit#)
 
