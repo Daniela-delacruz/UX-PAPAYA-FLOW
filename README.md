@@ -14,6 +14,8 @@
 
 ¿Cómo podríamos rediseñar la experiencia educativa remota para los alumnos pre-universitarios (5º secundaria/graduados) que planean ingresar a universidades particulares para lograr complementar su preparación en el ámbito emocional y así disminuir la deserción?
 
+![HOW MIGTH WE](https://user-images.githubusercontent.com/68177371/94377726-711c6b80-00e9-11eb-8513-8d76f309d479.png)
+
 ## Contexto-Pandemia
 
 La pandemia de COVID-19 ha impactado directamente los sistemas educativos en Perú y en todos los países de la región, afectando a estudiantes, hogares, ministerios, secretarías, centros educativos, docentes y directivos.  El cierre de los centros educativos como parte de las acciones para contener la propagación del virus 1 tiene a más de 165 millones de estudiantes sin asistir a los centros de enseñanza, desde preescolar hasta la educación terciaria.
