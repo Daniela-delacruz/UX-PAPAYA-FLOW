@@ -8,7 +8,7 @@
 
 * [1. Introducción](#1-Introducción)
 * [2. Contexto](#2-Contexto)
-* [3. Proceso de Diseño](#3-Proceso de Diseño)
+* [3. Proceso-de-Diseño](#2-Procesp-de-Diseño)
 
 ## How Migth We
 
