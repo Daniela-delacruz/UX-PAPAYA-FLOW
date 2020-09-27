@@ -80,6 +80,8 @@ El Plan de acción inicial, consta de 3 Etapas descritas a continuación:
 
 Como primer entregable y después de feedback recibido en el testeo del Prototipo de Media, el enfoque se realizará en la Primera y Segunda Etapa: INTEGRACIÓN & APRENDIZAJE DIVERTIDO, las cuales se irán implementando de modo progresivo.
 
+## 4. Prototipo
+
 [PROTOTIPO DE MEDIA FIDELIDAD](https://www.figma.com/proto/LFNqss9HABSxyUpDseXDhf/UX-Protipos-de-Media?node-id=27%3A179&scaling=scale-down)
 
 
