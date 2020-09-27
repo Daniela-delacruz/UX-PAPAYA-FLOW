@@ -49,6 +49,8 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 
 ## 2. Definición
 
+[User Affinity Map](https://miro.com/app/board/o9J_kkkRvEM=/)
+
 Los alumnos valoran el material brindado por los docentes, se autoexigen en el aprendizaje, aunque esto, le es genere un nivel de estrés y ansiedad alto. 
 Prestan mayor atención solo cuando los ejercicios son muy complicados, o cuando se es novato. 
 Son autodidácticos.
@@ -73,7 +75,7 @@ Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayo
 
 ## 3. Ideación
 
-Nuestro plan de acción subyace de los Breaks Points que se encontraron en las entrevistas con 5 usuarios y luego en la síntesis-Definición (Herramienta: User Affinity Map).
+Nuestro plan de acción subyace de los Paint Points que se encontraron en las entrevistas con 5 usuarios y luego en la síntesis-Definición (Herramienta: User Affinity Map).
 El Plan de acción inicial, consta de 3 Etapas descritas a continuación:
 
 ![IDEACIÓN](https://user-images.githubusercontent.com/68177371/94350945-54b0fe00-0019-11eb-82b4-f5e0f208ac8e.png)
