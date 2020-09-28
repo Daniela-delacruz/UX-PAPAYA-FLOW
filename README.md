@@ -96,7 +96,7 @@ Como primer entregable y después de feedback recibido en el testeo del Prototip
 
 LOOM DEL PROYECTO
 
-![VIDEO LOOM, STORY TELLING](https://drive.google.com/drive/folders/1knap1vhrIgAe3iIcZq9Wj2_-OjSjV2nc)
+[VIDEO LOOM, STORY TELLING](https://drive.google.com/drive/folders/1knap1vhrIgAe3iIcZq9Wj2_-OjSjV2nc)
 
 
 
