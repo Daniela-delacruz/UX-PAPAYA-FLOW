@@ -63,10 +63,9 @@ Están conforme con la exigencia y ritmo de aprendizaje de la Preparatoria.
 
 PAINT POINTS
 Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayoría de ellos, le gustaría regresar a la etapa Pre-Pandemia 
-1. Prestar atención 
-2. Interaccción
-3. Actividades fuera de lo académico
-4. Manejo de ansiedad.
+1. Interaccción
+2. Actividades fuera de lo académico
+3. Manejo de ansiedad.
 
 ¿CÓMO GENERAR VALOR?
 1. Generar Interacción con compañeros.
