@@ -85,6 +85,7 @@ Como primer entregable y después de feedback recibido en el testeo del Prototip
 ## 4. Prototipo
 
 [PROTOTIPO DE MEDIA FIDELIDAD](https://www.figma.com/proto/LFNqss9HABSxyUpDseXDhf/UX-Protipos-de-Media?node-id=27%3A179&scaling=scale-down)
+
 [PROTOTIPO DE ALTA FIDELIDAD](https://docs.google.com/presentation/d/1I303ddNW9hQTKlfP19AaAVeF7FdWMKAzz46EnUg46hU/edit#slide=id.p1)
 
 
