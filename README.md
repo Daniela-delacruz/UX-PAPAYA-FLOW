@@ -10,13 +10,13 @@
 * [2. Contexto](#2-Contexto)
 * [3. Proceso-de-Diseño](#2-Procesp-de-Diseño)
 
-## How Migth We
+## 1. How Migth We
 
 ¿Cómo podríamos rediseñar la experiencia educativa remota para los alumnos pre-universitarios (5º secundaria/graduados) que planean ingresar a universidades particulares para lograr complementar su preparación en el ámbito emocional y así disminuir la deserción?
 
 ![HOW MIGTH WE](https://user-images.githubusercontent.com/68177371/94377726-711c6b80-00e9-11eb-8513-8d76f309d479.png)
 
-## Contexto-Pandemia
+## 2. Contexto-Pandemia
 
 La pandemia de COVID-19 ha impactado directamente los sistemas educativos en Perú y en todos los países de la región, afectando a estudiantes, hogares, ministerios, secretarías, centros educativos, docentes y directivos.  El cierre de los centros educativos como parte de las acciones para contener la propagación del virus 1 tiene a más de 165 millones de estudiantes sin asistir a los centros de enseñanza, desde preescolar hasta la educación terciaria.
 
@@ -37,9 +37,9 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 ---
  
 
-## Proceso de Diseño
+## 3. Proceso de Diseño
 
-## 1. Empatizar: Descubrimiento e Investigación
+## 3.1. Empatizar: Descubrimiento e Investigación
 
 ![Design Thinking](https://www.maunamedia.com/wp-content/uploads/2018/06/Design-Thinking-Process-01-1024x582.png)
  
@@ -47,7 +47,7 @@ En este proyecto construiremos una solución dirigida a alumnos pre-universitari
 
 [Shadowing](https://www.figma.com/file/ZlIfR2uwFyub4dTBALXpO3/Shadowing?node-id=2%3A1)
 
-## 2. Definición
+## 3.2. Definición
 
 [User Affinity Map](https://miro.com/app/board/o9J_kkkRvEM=/)
 
@@ -74,7 +74,7 @@ Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayo
 3. Manejo de ansiedad (Por el miedo al futuro) mediante la interacción con compañeros.
 4. Solución enfocada en alumnos.
 
-## 3. Ideación
+## 3.3. Ideación
 
 Nuestro plan de acción subyace de los Paint Points que se encontraron en las entrevistas con 5 usuarios y luego en la síntesis-Definición (Herramienta: User Affinity Map).
 El Plan de acción inicial, consta de 3 Etapas descritas a continuación:
@@ -83,13 +83,13 @@ El Plan de acción inicial, consta de 3 Etapas descritas a continuación:
 
 Como primer entregable y después de feedback recibido en el testeo del Prototipo de Media, el enfoque se realizará en la Primera y Segunda Etapa: INTEGRACIÓN & APRENDIZAJE DIVERTIDO, las cuales se irán implementando de modo progresivo.
 
-## 4. Prototipo
+## 3.4. Prototipo
 
 [PROTOTIPO DE MEDIA FIDELIDAD](https://www.figma.com/proto/LFNqss9HABSxyUpDseXDhf/UX-Protipos-de-Media?node-id=27%3A179&scaling=scale-down)
 
 [PROTOTIPO DE ALTA FIDELIDAD](https://docs.google.com/presentation/d/1I303ddNW9hQTKlfP19AaAVeF7FdWMKAzz46EnUg46hU/edit#slide=id.p1)
 
-## 5. Test
+## 3.5. Test
 
 ![TEST USER 1](https://user-images.githubusercontent.com/68177371/94391986-aaba9a00-011c-11eb-94b4-5f21a59fc1cd.png)
 ![TEST USER 2](https://user-images.githubusercontent.com/68177371/94394626-67175e80-0123-11eb-8e67-99eb9192780b.png)
