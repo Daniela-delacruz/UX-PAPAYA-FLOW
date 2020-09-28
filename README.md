@@ -69,9 +69,10 @@ Sienten que no son lo mismo las clases en remoto que las presenciales. A la mayo
 4. Manejo de ansiedad.
 
 ¿CÓMO GENERAR VALOR?
-1. Generar Interacción con compañeros
-2. Fomentar clima de confianza
-3. Manejo de ansiedad (Por el miedo al futuro).
+1. Generar Interacción con compañeros.
+2. Fomentar clima de confianza.
+3. Manejo de ansiedad (Por el miedo al futuro) mediante la interacción con compañeros.
+4. Solución enfocada en alumnos.
 
 ## 3. Ideación
 
