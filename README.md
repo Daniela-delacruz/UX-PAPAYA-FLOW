@@ -94,6 +94,10 @@ Como primer entregable y después de feedback recibido en el testeo del Prototip
 ![TEST USER 2](https://user-images.githubusercontent.com/68177371/94394626-67175e80-0123-11eb-8e67-99eb9192780b.png)
 ![TEST USER 3](https://user-images.githubusercontent.com/68177371/94394876-02103880-0124-11eb-890d-4a2806d323bd.png)
 
+LOOM DEL PROYECTO
+
+![VIDEO LOOM, STORY TELLING](https://drive.google.com/drive/folders/1knap1vhrIgAe3iIcZq9Wj2_-OjSjV2nc)
+
 
 
 
