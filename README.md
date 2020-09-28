@@ -90,6 +90,9 @@ Como primer entregable y después de feedback recibido en el testeo del Prototip
 
 ## 3.5. Test
 
+En esta sección pudimos testear con los 5 usuarios entrevistados. Recopilamos lo más importante y los plasmamos en nuestro Prototipo de Alta.
+Aquí mostramos algunos screen
+
 ![TEST USER 1](https://user-images.githubusercontent.com/68177371/94391986-aaba9a00-011c-11eb-94b4-5f21a59fc1cd.png)
 ![TEST USER 2](https://user-images.githubusercontent.com/68177371/94394626-67175e80-0123-11eb-8e67-99eb9192780b.png)
 ![TEST USER 3](https://user-images.githubusercontent.com/68177371/94394876-02103880-0124-11eb-890d-4a2806d323bd.png)
