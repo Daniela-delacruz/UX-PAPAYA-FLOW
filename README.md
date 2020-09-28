@@ -91,7 +91,7 @@ Como primer entregable y después de feedback recibido en el testeo del Prototip
 
 ## 5. Test
 
-[TEST USER 1](https://user-images.githubusercontent.com/68177371/94391986-aaba9a00-011c-11eb-94b4-5f21a59fc1cd.png)
+![TEST USER 1](https://user-images.githubusercontent.com/68177371/94391986-aaba9a00-011c-11eb-94b4-5f21a59fc1cd.png)
 
 
 
